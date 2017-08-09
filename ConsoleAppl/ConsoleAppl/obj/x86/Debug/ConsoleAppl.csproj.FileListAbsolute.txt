@@ -1,0 +1,7 @@
+E:\Desktop\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.exe.config
+E:\Desktop\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.exe
+E:\Desktop\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.pdb
+E:\Desktop\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.exe
+E:\Desktop\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.pdb
+E:\Desktop\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.csprojResolveAssemblyReference.cache
+E:\Desktop\ConsoleAppl\ConsoleAppl\bin\Debug\NPOI.dll
