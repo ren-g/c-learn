@@ -15,21 +15,10 @@ namespace ConsoleAppl
     {
         static void Main()
         {
-            string sql = @"select Sex, Register_ID, Nation, NativePlace, IdCardNo from Pati_Regi_BasicInfo ";
+            string sql = @"select Sex, Register_ID, Nation, NativePlace, IdCardNo from Pati_Regi_BasicInfo;select * from Pati_Regi_Diagnos ";
             DataSet ds = DB.getDataSet(sql);
-            List<PresenInfo> preList = TableInfo<PresenInfo>.GetList(ds.Tables[0]).ToList();
             ExcelInfoCallback getP = new ExcelInfoCallback(new Program().GetTrueValue);
-
-            string sql2 = @"select * from Pati_Regi_Diagnos ";
-            DataSet ds2 = DB.getDataSet(sql2);
-            List<PresenInfo> preList2 = TableInfo<PresenInfo>.GetList(ds2.Tables[0]).ToList();
-
-            IWorkbook wb = new HSSFWorkbook();
-            OutPutExcel<PresenInfo>.ListToExcel(wb, preList, "sdd", getP);
-            using (FileStream stm = File.Create("E:\\Desktop\\1.xls"))
-            {
-                wb.Write(stm);
-            }
+            OutPutExcel<PresenInfo>.DtatsetToExcel(ds,getP);            
         }        
         public string GetTrueValue (string name,object obj){
             if (name == "Sex")

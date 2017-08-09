@@ -5,3 +5,13 @@ E:\Desktop\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.exe
 E:\Desktop\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.pdb
 E:\Desktop\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.csprojResolveAssemblyReference.cache
 E:\Desktop\ConsoleAppl\ConsoleAppl\bin\Debug\NPOI.dll
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.exe.config
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.exe
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.pdb
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.exe
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.pdb
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\bin\Debug\NPOI.dll
+C:\Users\rjl\Desktop\c-learn-master\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.csprojResolveAssemblyReference.cache
+C:\Users\rjl\Desktop\c-learn\ConsoleAppl\ConsoleAppl\bin\Debug\ConsoleAppl.exe.config
+C:\Users\rjl\Desktop\c-learn\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.exe
+C:\Users\rjl\Desktop\c-learn\ConsoleAppl\ConsoleAppl\obj\x86\Debug\ConsoleAppl.pdb
